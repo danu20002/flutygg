@@ -79,10 +79,15 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Row(
           mainAxisAlignment: MainAxisAlignment.start,
           crossAxisAlignment: CrossAxisAlignment.center,
-          children: <Text>[
+          children: [
             Text("sda"),
             Text("sda"),
             Text("sda"),
+           Column(
+             children: [
+               Text("thisnsdjkfh")
+             ],
+           ),
             Text("sda"),
             Text("sda"),
             Text("sda"),
