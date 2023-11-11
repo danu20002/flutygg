@@ -78,7 +78,7 @@ class _MyHomePageState extends State<MyHomePage> {
         color: Colors.brown,
         child: Row(
           mainAxisAlignment: MainAxisAlignment.start,
-          crossAxisAlignment: CrossAxisAlignment.center,
+          crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text("sda"),
             Text("sda"),
