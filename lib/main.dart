@@ -85,7 +85,8 @@ class _MyHomePageState extends State<MyHomePage> {
             Text("sda"),
            Column(
              children: [
-               Text("thisnsdjkfh")
+               Text("thisnsdjkfh"),
+               Text("thisnsdjkfh"),
              ],
            ),
             Text("sda"),
